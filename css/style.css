@@ -259,18 +259,3 @@ body{
 
 }
 
-/* Hover Section */
-.btn_Color_width:hover{
-    transform:scale(1.1);
-    background-color: rgb(233, 47, 233);
-    transition: 0.6s;
-    transform: rotate(360deg);
-}
-.Mylogo:hover{
-    transform: rotate(360deg);
-    transform: scale(1.2);
-    cursor: progress;
-}
-a:hover{
-    transform: scale(1.1);
-}
